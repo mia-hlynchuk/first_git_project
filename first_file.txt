@@ -1,1 +1,1 @@
-This is my first file for git. Now Im adding something elese.
+This is my first file for git that I have made. Now Im adding something elese.
